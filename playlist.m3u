@@ -5,3 +5,5 @@ https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/466px-Canal_6_TCS.png" group-title="TCS",Canal 6 (480p) [Not 24/7]
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+EXTINF:-1 tvg-id="TVES10.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/320px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="GOES",TVES 10
+https://5fe2654d6127d.streamlock.net/tves/smil:tves.smil/.m3u?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6NTM6NTAgUE0maGFzaF92YWx1ZT1kR1N3QmFpaENuTFpZU1c4dzRBVTVnPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ%3D%3D
