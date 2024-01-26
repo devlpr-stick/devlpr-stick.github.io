@@ -9,8 +9,6 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TVL.sv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Canal_9_SV_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220716220842" group-title="GOES",Televisión Legislativa
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-id="TVES10.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/320px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="GOES",TVES 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/503px-CANAL_12_2023_VA_CON_VOS.png" group-title="Albavision",Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/Canal12SV/Canal12SV1/chunks.m3u8
 #EXTINF:-1 tvg-id="TUTV.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tutvcanal11.png" group-title="Albavision",TUTV
@@ -21,23 +19,19 @@ https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylis
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://frankly-vod.akamaized.net/megavision/uploaded/941da593-4096-478a-a56e-8fc71f86c9d8.jpeg" group-title="Megavision",Awapa Sports TV
 https://mgv-awapa.univtec.com/hls/live/2104282/MGV_CHANNEL15/0/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="El15TV.sv",Canal 15 Usulután (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="El15TV.sv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/TV15_Usulutan.png/revision/latest?cb=20210624151053&path-prefix=es" group-title="Varios",Canal 15 Usulután
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
-#EXTINF:-1 tvg-id="Canal65.sv",Canal 65 (1080p) [Not 24/7]
-https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalTRV.sv",Canal TRV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://www.canaltrv.com/gallery_gen/a3d45ff2754aaadf6934f654315bacbc_174x86_fit.png" group-title="Varios",Canal TRV
 https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
-#EXTINF:-1 tvg-id="OrbitaFM.sv",Órbita FM (720p)
+#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://cdn-profiles.tunein.com/s291515/images/logod.jpg?t=637431477140000000" group-title="Órbita TV",Órbita FM (720p)
 https://rpn3.bozztv.com/ssh101/ssh101/OrbitaFM953/playlist.m3u8
-#EXTINF:-1 tvg-id="OrbitaTV.sv",Órbita TV (720p)
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2023/02/LOGO-ORBITA-TV-AZUL.png" group-title="Órbita TV",Órbita TV (720p)
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
-#EXTINF:-1 tvg-id="SolTV.sv",Sol TV Morazán (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SolTV.sv" tvg-logo="" group-title="Varios",Sol TV Morazán (1080p) [Not 24/7]
 http://rtmp.info:1935/soltv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVU.sv",TV Usuluteca (404p)
+#EXTINF:-1 tvg-id="TVU.sv" tvg-logo="https://yt3.googleusercontent.com/drAQnVsOvnTkJs0B…YcmC5qDPps3fWtzFqjv4BA=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",TV Usuluteca
 http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
-#EXTINF:-1 tvg-id="TVX.sv",TVX (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="Varios",TVX
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
-
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Varios",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
