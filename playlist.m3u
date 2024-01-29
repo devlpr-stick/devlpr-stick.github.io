@@ -29,9 +29,7 @@ https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/OrbitaFM953/playlist.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2023/02/LOGO-ORBITA-TV-AZUL.png" group-title="Órbita TV",Órbita TV (720p)
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
-#EXTINF:-1 tvg-id="SolTV.sv" tvg-logo="" group-title="Varios",Sol TV Morazán (1080p) [Not 24/7]
-http://rtmp.info:1935/soltv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVU.sv" tvg-logo="https://yt3.googleusercontent.com/drAQnVsOvnTkJs0B…YcmC5qDPps3fWtzFqjv4BA=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",TV Usuluteca
+#EXTINF:-1 tvg-id="TVU.sv" tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg" group-title="Varios",TV Usuluteca
 http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 #EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="Varios",TVX
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
