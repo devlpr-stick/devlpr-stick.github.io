@@ -11,6 +11,8 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TVL.sv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Canal_9_SV_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220716220842" group-title="GOES",Televisión Legislativa
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-id="TVES10.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/320px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="GOES",TVES 10
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/503px-CANAL_12_2023_VA_CON_VOS.png" group-title="Albavision",Canal 12
 https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/Canal12SV/Canal12SV1/chunks.m3u8
 #EXTINF:-1 tvg-id="TUTV.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tutvcanal11.png" group-title="Albavision",TUTV
