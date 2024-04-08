@@ -27,9 +27,9 @@ https://mgv-awapa.univtec.com/hls/live/2104282/MGV_CHANNEL15/0/streamPlaylist.m3
 https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
 #EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://www.canaltrv.com/gallery_gen/a3d45ff2754aaadf6934f654315bacbc_174x86_fit.png" group-title="Varios",Canal TRV
 https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
-#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://cdn-profiles.tunein.com/s291515/images/logod.jpg?t=637431477140000000" group-title="Órbita TV",Órbita FM (720p)
+#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2024/02/CUADRADO-150x150.png" group-title="Órbita TV",Órbita FM (720p)
 https://rpn3.bozztv.com/ssh101/ssh101/OrbitaFM953/playlist.m3u8
-#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2023/02/LOGO-ORBITA-TV-AZUL.png" group-title="Órbita TV",Órbita TV (720p)
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2024/03/LOGO-TV25-AZUL-300x169.jpg" group-title="Órbita TV",Órbita TV (720p)
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 #EXTINF:-1 tvg-id="TVU.sv" tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg" group-title="Varios",TV Usuluteca
 http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
