@@ -35,5 +35,9 @@ https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 #EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="Varios",TVX
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="Varios",TVO Canal 23
+http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.sv" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="General",Sol TV Morazán (1080p) [Not 24/7]
+http://rtmp.info:1935/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Varios",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
